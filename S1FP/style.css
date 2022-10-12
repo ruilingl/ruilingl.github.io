@@ -21,6 +21,10 @@ div.desc {
   box-sizing: border-box;
 }
 
+#responsivewrapper{
+  margin-bottom: 50px;
+}
+
 .responsive {
   padding: 0 6px;
   float: left;
@@ -102,5 +106,17 @@ div.floatwrapper img {
   width: 100%;
   height: 100%;
 }
+
+/* This is the style of redirecting to my classmate's website */
+.redirect{
+  position:fixed;
+  left：0;
+  bottom:0;
+}
+
+.redirect img {
+  width: 20%;
+}
+
 
 
